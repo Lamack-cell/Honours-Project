@@ -1,0 +1,20 @@
+Statistic,Value
+Target observations,97120
+Model observations,93231
+Excluded observations,3889
+Initial feature-warm-up exclusions,3040
+Later security-specific exclusions,849
+Model-panel start date,2016-10-19
+Model-panel end date,2026-03-18
+Model-panel trading dates,2352
+Minimum model cross-section,38
+Mean model cross-section,39.64602975405177
+Maximum model cross-section,40
+Duplicate stock-date records,0
+Missing feature values,0
+Infinite feature values,0
+Features with VIF at least 5,5
+Features with VIF at least 10,2
+High-correlation feature pairs,5
+Correlation-matrix condition number,93.08231117747695
+Maximum condition index,9.647917452874333

@@ -1,0 +1,23 @@
+Statistic,Value
+Paired stock-day predictions,22136
+Paired out-of-sample dates,554
+Out-of-sample start date,2024-01-02
+Out-of-sample end date,2026-03-18
+Pooled OLS mean daily IC,0.0199096839979001
+XGBoost mean daily IC,0.014801106263817972
+Mean IC difference: XGBoost minus OLS,-0.005108577734082131
+Newey-West maximum lag,5
+Newey-West standard error,0.006865008652485502
+Newey-West normal test statistic,-0.7441473117783403
+One-sided p-value for XGBoost superiority,0.7716063203688337
+Two-sided p-value,0.4567873592623327
+95% confidence interval lower,-0.018563747446509564
+95% confidence interval upper,0.008346591978345301
+Pooled OLS quarterly mean-IC wins,4
+XGBoost quarterly mean-IC wins,5
+Tied quarterly mean-IC comparisons,0
+Pooled OLS daily IC wins,286
+XGBoost daily IC wins,268
+Tied daily IC comparisons,0
+Primary directional decision,Fail to reject H0: no evidence that XGBoost had superior mean daily IC
+Two-sided interpretation,No statistically significant two-sided difference

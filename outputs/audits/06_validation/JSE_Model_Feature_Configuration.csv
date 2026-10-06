@@ -1,0 +1,10 @@
+Feature_Set,Feature,Used_In_Primary_OLS,Used_In_Primary_XGBoost,Used_In_Reduced_Robustness_Model,Winsor_Lower_Quantile,Winsor_Upper_Quantile,Winsorisation_Timing
+Primary_Full_9,Mom_1M,True,True,True,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,Mom_3M,True,True,True,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,Mom_6M,True,True,True,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,Vol_21D,True,True,True,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,RSI_14,True,True,False,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,SMA_50_Ratio,True,True,False,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,SMA_200_Ratio,True,True,False,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,Volume_Shock_21D,True,True,False,0.01,0.99,Estimated separately within each outer or inner training window
+Primary_Full_9,Value_Traded_Shock_63D,True,True,True,0.01,0.99,Estimated separately within each outer or inner training window

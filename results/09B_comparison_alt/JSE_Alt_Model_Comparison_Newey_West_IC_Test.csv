@@ -1,0 +1,2 @@
+Sample_Size_T,NW_Lag_q,Minimum_NW_Lag_Floor,Mean_IC_Difference,Newey_West_SE,Test_Statistic,One_Sided_P_Value,Two_Sided_P_Value,Critical_Value_95pct,Reject_H0_One_Sided_5pct,Interpretation
+534,21,21,-0.01515504817833178,0.03533264081071662,-0.42892486467456903,0.666011047735064,0.667977904529872,1.959963984540054,False,Cannot reject H0: no significant XGB advantage

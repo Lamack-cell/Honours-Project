@@ -1,0 +1,14 @@
+Statistic,Value
+Total target observations,97120
+Total target dates,2428
+Target-panel start date,2016-07-01
+Target-panel end date,2026-03-18
+Minimum daily cross-sectional size,40
+Maximum daily cross-sectional size,40
+Target minimum,0.0
+Target maximum,1.0
+Target mean,0.5
+Target standard deviation,0.2959853259456513
+Days with tied returns,84
+Percentage of days with tied returns,3.459637561779242
+Days with tied zero returns,84

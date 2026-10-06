@@ -1,0 +1,13 @@
+Check,Value,Required_Value,Result
+Unmatched OLS and XGBoost prediction keys,0,0,Passed
+Target_Y mismatches,0,0,Passed
+Forward_Return mismatches,0,0,Passed
+N_t mismatches,0,0,Passed
+Model_N_t mismatches,0,0,Passed
+Duplicate paired Date-Ticker observations,0,0,Passed
+Paired stock-day observations,22136,22136,Passed
+Paired out-of-sample dates,554,554,Passed
+Pooled OLS stored daily metrics reproduced,Passed,Passed,Passed
+XGBoost stored daily metrics reproduced,Passed,Passed,Passed
+Maximum OLS daily metric round-trip difference,1.1102230246251565e-16,<= 1.0e-08,Passed
+Maximum XGBoost daily metric round-trip difference,4.968958744466789e-09,<= 1.0e-08,Passed

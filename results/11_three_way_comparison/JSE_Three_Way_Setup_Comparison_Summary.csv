@@ -1,0 +1,25 @@
+Metric,Primary_1D_Fixed_Lambda,Expanded_1D_Searched_Lambda,Alternative_21D_Searched_Lambda
+Target Return Horizon,1 trading day,1 trading day,21 trading days (~1 month)
+Purge Buffer Between Windows,1 trading date,1 trading date,21 trading dates
+XGBoost Regularisation Lambda,Fixed (10.0),"Grid searched: {1.0, 5.0, 10.0}","Grid searched: {1.0, 5.0, 10.0}"
+XGBoost Candidate Grid Size,32 candidates,96 candidates,96 candidates
+Newey-West HAC Lag q,5 lags,5 lags,21 lags
+Out-of-sample Predictions,"22,136","22,136","21,336"
+Out-of-sample Trading Dates (T),554,554,534
+OLS Mean Daily IC,0.019910,0.019910,0.001356
+OLS Median Daily IC,0.026923,0.026923,0.023598
+OLS Daily IC StdDev,0.233794,0.233794,0.237256
+OLS IC Information Ratio,0.0852,0.0852,0.0057
+OLS Positive IC Days (%),54.15%,54.15%,53.75%
+XGBoost Mean Daily IC,0.014801,0.017661,-0.013799
+XGBoost Median Daily IC,0.018707,0.019717,-0.037328
+XGBoost Daily IC StdDev,0.219780,0.216869,0.223436
+XGBoost IC Information Ratio,0.0673,0.0814,-0.0618
+XGBoost Positive IC Days (%),53.61%,54.51%,43.45%
+Mean IC Difference (XGB - OLS),-0.005109,-0.002249,-0.015155
+Newey-West HAC Standard Error,0.006865,0.006992,0.035333
+Newey-West t-statistic,-0.7441,-0.3217,-0.4289
+One-sided p-value (H1: XGB > OLS),0.7716,0.6262,0.6660
+Two-sided p-value,0.4568,0.7477,0.6680
+Statistical Significance at 5%,No (Fail to reject H0),No (Fail to reject H0),No (Fail to reject H0)
+Descriptive Ranking Winner,Pooled OLS,Pooled OLS,Pooled OLS

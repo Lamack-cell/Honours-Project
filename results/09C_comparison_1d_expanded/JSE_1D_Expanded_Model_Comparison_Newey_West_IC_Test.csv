@@ -1,0 +1,2 @@
+Daily_Observations,Newey_West_Max_Lag,Mean_IC_Difference_XGB_Minus_OLS,Newey_West_Standard_Error,Normal_Test_Statistic,One_Sided_P_Value_XGB_Superior,Two_Sided_P_Value,Confidence_Interval_Lower,Confidence_Interval_Upper,Directional_Decision,Two_Sided_Decision
+554,5,-0.0022491832283487575,0.006992037493745036,-0.3216777985473963,0.626151600605993,0.7476967987880141,-0.01595332489464273,0.011454958437945216,Fail to reject H0,No statistically significant difference

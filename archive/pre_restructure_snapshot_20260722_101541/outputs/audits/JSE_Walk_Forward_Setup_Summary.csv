@@ -1,0 +1,25 @@
+Statistic,Value
+Master model observations,93231
+Master model dates,2352
+Master-panel start date,2016-10-19
+Master-panel end date,2026-03-18
+Minimum daily model cross-section,38
+Mean daily model cross-section,39.639030612244895
+Maximum daily model cross-section,40
+Primary predictors,9
+Initial outer test quarter,2024Q1
+Outer walk-forward windows,9
+Inner validation folds per outer window,3
+Total inner validation folds,27
+Validation dates per inner fold,126
+Minimum inner training dates,504
+Target-horizon purge dates,1
+Initial training start date,2016-10-19
+Initial training end date,2023-12-28
+Initial purged boundary date,2023-12-29
+Initial test start date,2024-01-02
+Final test end date,2026-03-18
+Total out-of-sample dates,554
+Total out-of-sample observations,22136
+Winsorisation lower quantile,0.01
+Winsorisation upper quantile,0.99

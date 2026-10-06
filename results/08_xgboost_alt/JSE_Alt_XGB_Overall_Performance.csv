@@ -1,0 +1,2 @@
+Out_Of_Sample_Observations,Out_Of_Sample_Dates,Mean_Daily_IC,Median_Daily_IC,Daily_IC_Standard_Deviation,Daily_IC_Information_Ratio,Positive_IC_Days,Positive_IC_Percentage,Observation_MAE,Observation_RMSE,Mean_Top_Quartile_Hit_Rate,Mean_Bottom_Quartile_Hit_Rate
+21336,534,-0.013799039155838789,-0.03732807750935227,0.22343585825457213,-0.06175839126106976,232,43.445692883895134,0.2562066175527237,0.29580988580906337,0.2657303370786517,0.22153558052434458

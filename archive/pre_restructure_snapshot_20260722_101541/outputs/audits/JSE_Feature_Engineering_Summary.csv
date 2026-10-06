@@ -1,0 +1,17 @@
+Statistic,Value
+Broad trading-panel observations loaded,149423
+Target-panel observations loaded,97120
+Rows before complete-feature filtering,97120
+Rows removed for rolling-feature warm-up,3889
+Final feature-engineered observations,93231
+Final feature-engineered dates,2352
+Feature-panel start date,2016-10-19
+Feature-panel end date,2026-03-18
+Minimum daily model cross-section,38
+Mean daily model cross-section,39.639030612244895
+Maximum daily model cross-section,40
+Number of raw features,9
+Number of standardised features,9
+Duplicate stock-date observations,0
+Missing standardised feature values,0
+Maximum absolute daily standardised mean,6.558856022400925e-15

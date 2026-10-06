@@ -1,0 +1,12 @@
+Parameter,Value
+Forward_Return_Horizon_Days,21
+TARGET_HORIZON_PURGE_DATES,21
+INNER_VALIDATION_FOLDS,3
+INNER_VALIDATION_DATES_PER_FOLD,126
+MINIMUM_INNER_TRAINING_DATES,504
+Master_Panel_Rows,92431
+Master_Panel_Dates,2332
+Outer_Windows,9
+Inner_Folds,27
+Total_Test_Observations,21336
+Total_Test_Dates,534

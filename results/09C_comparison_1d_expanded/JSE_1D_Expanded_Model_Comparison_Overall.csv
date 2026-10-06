@@ -1,0 +1,12 @@
+Metric,Pooled_OLS,XGBoost,Difference_XGB_Minus_OLS,Preferred_Direction,Descriptive_Winner
+Out-of-sample stock-day predictions,22136.0,22136.0,0.0,Count,Tie
+Out-of-sample trading dates,554.0,554.0,0.0,Count,Tie
+Mean daily IC,0.0199096839979001,0.017660500769551352,-0.002249183228348748,Higher is better,Pooled OLS
+Median daily IC,0.026923076923076928,0.01971695112593503,-0.007206125797141898,Higher is better,Pooled OLS
+Daily IC standard deviation,0.2337937025657378,0.21686857859451378,-0.016925123971224032,Lower indicates greater stability,XGBoost
+Unannualised IC information ratio,0.08515919710156403,0.08143411500184065,-0.003725082099723373,Higher is better,Pooled OLS
+Positive-IC trading days (%),54.151624548736464,54.51263537906137,0.36101083032490777,Higher is better,XGBoost
+Observation-level MAE,0.2563065518435842,0.2563871848197043,8.063297612009857e-05,Lower is better,Pooled OLS
+Observation-level RMSE,0.2959402910988908,0.2959869732802177,4.668218132691804e-05,Lower is better,Pooled OLS
+Mean daily top-quartile hit rate,0.27996389891696755,0.26895306859205775,-0.011010830324909793,Higher is better,Pooled OLS
+Mean daily bottom-quartile hit rate,0.25595667870036104,0.2518050541516246,-0.004151624548736466,Higher is better,Pooled OLS

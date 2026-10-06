@@ -1,0 +1,20 @@
+Date,Observed_Securities,Positive_Volume_Securities,Total_Reported_Volume,Positive_Volume_Share,Is_Market_Trading_Date,Removal_Reason
+2016-01-01,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-03-21,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-03-25,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-03-28,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-04-27,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-05-02,53,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-06-16,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-08-03,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-08-09,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-12-16,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-12-26,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2016-12-27,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-01-02,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-05-01,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-06-16,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-08-09,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-09-25,54,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-12-25,55,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation
+2017-12-26,55,0,0,0.0,False,Market-wide non-trading date or insufficient positive-volume participation

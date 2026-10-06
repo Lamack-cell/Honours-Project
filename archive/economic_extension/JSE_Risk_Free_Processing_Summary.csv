@@ -1,0 +1,17 @@
+Statistic,Value
+Raw workbook observations,531
+Rows with unparseable dates,0
+Rows with unparseable rates,0
+Duplicate-date rows before cleaning,0
+Valid unique weekly observations,531
+Weekly-series start date,2016-01-01
+Weekly-series end date,2026-03-20
+Minimum annual rate (%),3.43
+Minimum-rate observation date,2020-09-04
+Maximum annual rate (%),8.72
+Maximum-rate observation date,2023-11-03
+Market trading dates aligned,2552
+Daily-series start date,2016-01-04
+Daily-series end date,2026-03-19
+Maximum assigned observation age (days),13
+Future observations assigned,0
