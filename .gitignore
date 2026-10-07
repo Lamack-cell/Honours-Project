@@ -1,4 +1,4 @@
-﻿venv/
+venv/
 .venv/
 __pycache__/
 *.pyc
@@ -7,3 +7,12 @@ __pycache__/
 Thumbs.db
 *.tmp
 *.log
+
+# Figures
+outputs/figures/
+results/figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
